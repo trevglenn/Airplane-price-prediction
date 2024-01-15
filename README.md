@@ -7,4 +7,4 @@ Predicting airplane prices using Python
 4. Built an ensemble model to try to refine our predicted values accuracy. - **In Progress**
 5. Built a Deep Learning Model to see if a Neural Network would be better at predicting prices than our other models. - **In Progress**
 
-Files titled with "testing" were used to test different methods, practices, and code as I tried to solve the regression problem at hand, they are essentially **very** rough drafts. 
+Files titled with "testing" were used to test different methods, practices, and code as I tried to solve the regression problem at hand. They are essentially **very** rough drafts, feel free to take a look if you'd like an idea of some of the different methods that were tried and may have failed. 
